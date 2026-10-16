@@ -6,18 +6,18 @@
 
 | Metric | Count |
 |--------|-------|
-| Total Solved | 4 |
+| Total Solved | 5 |
 | Easy | 1 |
 | Medium | 3 |
-| Hard | 0 |
-| Current Streak | 4 days |
-| Last Synced | 15/10/2026 |
+| Hard | 1 |
+| Current Streak | 5 days |
+| Last Synced | 16/10/2026 |
 
 ## Languages
 
 | Language | Solutions |
 |----------|-----------|
-| Java | 4 |
+| Java | 5 |
 
 ---
-*Last updated: 2026-10-15T04:03:39.129Z*
+*Last updated: 2026-10-16T03:51:37.987Z*
